@@ -1,6 +1,3 @@
-
-
-
 let iname = prompt("Enter your name: ");
 let iage = Number(prompt("Enter your age"));
 let igender = prompt("Enter your gender: ").toLowerCase();
